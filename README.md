@@ -11,4 +11,14 @@ The columns in the given dataset is as follows:
   •	Fuel_Type  
   •	Seller_Type  
   •	Transmission  
-  •	Owner  
+  •	Owner 
+
+   ## Models: 
+    -	Random Forest Regressor 
+    - Linear Regression 
+    -SVM 
+    -Adaboost regressor 
+    -KNN regressor 
+    
+    
+
