@@ -14,8 +14,8 @@ The columns in the given dataset is as follows:
   •	Owner 
 
    ## Models: 
-    -	Random Forest Regressor 
-    - Linear Regression 
+    -Random Forest Regressor 
+    -Linear Regression 
     -SVM 
     -Adaboost regressor 
     -KNN regressor 
